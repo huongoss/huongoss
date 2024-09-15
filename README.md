@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate here.
 - 📫 How to reach me just here.
 - 😄 Pronouns: any
-- ⚡ Fun fact: If you can reproduce issue, I cann kill the bug.
+- ⚡ Fun fact: If you can reproduce an issue, I can kill the bug.
 
 <!---
 huongoss/huongoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
